@@ -3,7 +3,7 @@ class Person
     @name
   end  
   def name= (name)
-    @job
+    @name
   end 
   def job
     @job
